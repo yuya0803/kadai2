@@ -1,6 +1,6 @@
-#ifndef _CALC2_H_
-#define _CALC2_H_
+#ifndef _CALC_H_
+#define _CALC_H_
 
 void shuffle(int[], int);
 
-#endif // _CALC2_H_
+#endif // _CALC_H_

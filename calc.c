@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "../include/calc2.h"
+#include "calc.h"
 
 void shuffle(int array[], int size)
 {
