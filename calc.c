@@ -3,6 +3,7 @@
 #include <time.h>
 #include "calc.h"
 
+/*0からi番目の要素をランダムに選ぶ*/
 void shuffle(int array[], int size)
 {
     for (int i=0;i<size;i++)
